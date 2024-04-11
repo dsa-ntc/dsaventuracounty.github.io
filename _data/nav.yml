@@ -2,13 +2,22 @@
 header:
   - title: "Statements"
     url: "/blog/"
-    description: "Link to DSA Chapter's Chapter Statements"
-  - title: "Get Involved"
-    url: "/get-involved/"
-    description: "Check out what DSA Chapter is working on. Join DSA!"
+    description: "Link to DSA Ventura County's Chapter Statements"
+  - title: "About"
+    url: "/about/"
+    description: "About DSA Ventura County"
+  - title: "Working Groups"
+    url: "/working-groups/"
+    description: "DSA Ventura County Working Groups"
+  - title: "Bylaws"
+    url: "/bylaws/"
+    description: "DSA Ventura County Bylaws"
   - title: "Events Calendar"
     url: "/calendar/"
     description: "Chapter Events Calendar"
+  - title: "Get Involved"
+    url: "/get-involved/"
+    description: "Check out what DSA Ventura County is working on. Join DSA!"
 
 # footer links
 footer:
