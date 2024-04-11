@@ -1,4 +1,5 @@
 global:
-  about: "<b>This is a starter website available for any DSA Chapter.</b> Democratic socialists believe both the economy and society should be run democratically to meet human needs, not to make profits for the wealthy. Throughout San Mateo County, from South San Francisco to Pacifica to East Palo Alto, our chapter fights for the good of the many, not the few."
-  welcome: "Welcome to a DSA chapter website!"
+  about: "<p>At the root of our socialism is a profound commitment to democracy, as means and end. DSA fights for reforms today that will weaken the power of corporations and increase the power of working people.</p>
+  <p>We are activists committed to democracy as not simply one of our political values, but our means of restructuring society. Our vision is a society in which people have a real voice in the choices and relationships that affect the entirety of their lives. We call this vision democratic socialism — a vision of a more free, democratic and humane society.</p>"
+  welcome: "We Are DSA Ventura County"
   welcome-image: ""
