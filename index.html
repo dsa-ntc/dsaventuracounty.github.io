@@ -7,14 +7,11 @@ layout: default
 
 <div class="container my-5">
   <div class="row">
-    <div class="col-md-6 col-sm-12">
+    <div class="col-md-12 col-sm-12">
       <h1>{{ welcome }}</h1>
       <hr class="large" />
       <p>{{ about }}</p>
       <a href="/about" class="btn btn-secondary">Read More <i class="fa fa-arrow-right"></i></a>
-    </div>
-    <div class="col-md-6 col-sm-12 text-right">
-      <img src="assets/images/ece-4-all-ssf-volunteers-at-campaign-launch-2022-01-15.jpg" width="90%" height="auto" alt="Dozens of volunteers at the Pre-school for all campaign launch!" />
     </div>
   </div>
   <div class="row">
@@ -22,6 +19,7 @@ layout: default
       <i class="fa fa-arrow-down my-5 text-red"></i>
     </div>
   </div>
+  {% if site.posts.size > 0 %}
   <div class="row">
     <div class="col-12">
       <h3 class="my-5">Recent Statements</h2>
@@ -32,6 +30,7 @@ layout: default
       <a class="my-0 article-link" href="{{ post.url }}">{{ post.title }}</a>
       <p>{{ post.short_description }}</p>
     </div>
-  {% endfor %}
+    {% endfor %}
   </div>
+  {% endif %}
 </div>
