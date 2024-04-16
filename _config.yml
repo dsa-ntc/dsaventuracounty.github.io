@@ -11,8 +11,8 @@ remote_theme: "manid2/lone-wolf-theme"
 bootswatch_theme: "united"
 
 # These settings are always used by Jekyll
-title: "Chapter of Democratic Socialists of America"
-url: https://[dsachapter].dsachapters.org
+title: "Ventura County Chapter of Democratic Socialists of America"
+url: https://venturacounty.dsachapters.org
 
 # These settings ase used by the jekyll-seo-tag plugin. The plugin adds
 # metadata tags for search engines and social networks to better index and
@@ -20,14 +20,14 @@ url: https://[dsachapter].dsachapters.org
 # site more discoverable to others. See this link for more information:
 # https://jekyll.github.io/jekyll-seo-tag/usage/
 # The tagline is used when `page.title` is not defined.
-tagline: "Homepage for our DSA Chapter"
+tagline: "Homepage for the Ventura County DSA Chapter"
 # The description is used when a page doesn't provide its own description.
 # It will also be used as the page's title tag if neither `page.title` nor
 # `site.tagline` has been defined.
-description: "Homepage for our DSA Chapter"
+description: "Homepage for the Ventura County DSA Chapter"
 author: DSA
 twitter:
-  username: dsachapter
+  username: vcdemsocialists
   # The site's default card type. See this link for more information:
   # https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards
   card: summary
@@ -40,12 +40,11 @@ facebook:
   admins: # 1234
 logo: assets/images/smalllogo.png # PNG is SEO friendly
 social:
-  name: Chapter of Democratic Socialists of America
+  name: Ventura County Chapter of Democratic Socialists of America
   links:
-    - https://twitter.com/dsachapter
-    - https://www.facebook.com/dsachapter
-    - https://www.instagram.com/dsachapter
-    - https://www.github.com/dsachapter
+    - https://twitter.com/vcdemsocialists
+    - https://www.facebook.com/dsaventuracounty
+    - https://www.instagram.com/dsaventuracounty
 # Site verifications
 # I don't understand this yet, but maybe this page is helpful:
 # https://support.google.com/webmasters/answer/9008080?hl=en
