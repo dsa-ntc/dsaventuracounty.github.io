@@ -12,4 +12,4 @@ Our next chapter meeting is **Thursday, February 27th at 6pm PT**. It will be a 
 
 This meeting will be covering our upcoming efforts in 2025, including membership initiatives and Chapter Rules. We strongly encourage members to join this meeting to voice their interests, recommendations, and suggestions for the benefit of the Chapter. 
 
-Additionally, we'll also discuss our open Chapter leaderships roles!
+Additionally, we'll also discuss our open Chapter leaderships roles.
